@@ -27,7 +27,7 @@ let str = `\`『 ＣＵＥＮＴＡＳ ＯＦＩＣＩＡＬＥＳ 』\`
 * *${fb}* 
 
 \`『   』\`   
-* *https://t.me/+EcdN9fktnQQwY2Ex* 
+* ** 
 
 \`『   』\`   
 * *${tiktok}* 
